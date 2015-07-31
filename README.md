@@ -1,2 +1,2 @@
 # ECommerce
-Proiectul cel mai de pret al lui Burtiligau
+Proiectul cel mai de pret al lui Catalin
