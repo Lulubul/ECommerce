@@ -1,0 +1,9 @@
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\Entities.dll.config
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\Entities.dll
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\Entities.pdb
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\EntityFramework.dll
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\EntityFramework.xml
+E:\Informatica\Proiecte\ECommerce\DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+E:\Informatica\Proiecte\ECommerce\DataAcces\obj\Debug\Entities.dll
+E:\Informatica\Proiecte\ECommerce\DataAcces\obj\Debug\Entities.pdb

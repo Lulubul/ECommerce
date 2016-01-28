@@ -1,4 +1,4 @@
-namespace DataAcces
+namespace Entities
 {
     using System;
     using System.Data.Entity;
@@ -10,6 +10,7 @@ namespace DataAcces
         public ECommerceContext()
             : base("name=ECommerceContext")
         {
+            Configuration.LazyLoadingEnabled = false;
         }
 
         public virtual DbSet<Product> Products { get; set; }

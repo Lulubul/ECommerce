@@ -5,8 +5,8 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ECommerce;
-using ECommerce.Controllers;
+using ECommerceBE;
+using ECommerceBE.Controllers;
 
 namespace ECommerce.Tests.Controllers
 {

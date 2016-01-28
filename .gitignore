@@ -1,0 +1,6 @@
+ECommerceBE/bin/
+packages/
+.gitattributes
+Repository/bin/
+ECommerceBE/obj/
+*.config

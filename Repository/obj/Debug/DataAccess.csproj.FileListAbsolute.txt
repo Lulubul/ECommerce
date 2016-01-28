@@ -1,0 +1,12 @@
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\DataAccess.dll.config
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\DataAccess.dll
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\DataAccess.pdb
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\Entities.dll
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\EntityFramework.dll
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\Entities.pdb
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\EntityFramework.xml
+E:\Informatica\Proiecte\ECommerce\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Informatica\Proiecte\ECommerce\Repository\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Informatica\Proiecte\ECommerce\Repository\obj\Debug\DataAccess.dll
+E:\Informatica\Proiecte\ECommerce\Repository\obj\Debug\DataAccess.pdb

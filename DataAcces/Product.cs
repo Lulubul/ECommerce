@@ -1,4 +1,4 @@
-namespace DataAcces
+namespace Entities
 {
     using System;
     using System.Collections.Generic;
