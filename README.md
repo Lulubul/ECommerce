@@ -1,2 +1,2 @@
 # ECommerce
-Proiectul cel mai de pret al lui Catalin
+Simple Web API application 
